@@ -1,6 +1,2 @@
 #+TITLE: hello
 
-** TODO 
-:PROPERTIES:
-:todo: 1611818426566
-:END:
