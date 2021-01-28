@@ -1,20 +1,2 @@
 #+TITLE: hello
 
-** LATER
-:PROPERTIES:
-:later: 1611818198460
-:END:
-*** asdf
-** NOW
-:PROPERTIES:
-:now: 1611818203331
-:END:
-** TODO aaaa
-:PROPERTIES:
-:todo: 1611818409118
-:END:
-** DOING
-:PROPERTIES:
-:doing: 1611818309645
-:END:
-** asdfsdf
