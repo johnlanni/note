@@ -2,3 +2,6 @@
 
 ** asdf #k8s
 **
+#+BEGIN_QUERY
+
+#+END_QUERY
